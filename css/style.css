@@ -1,0 +1,38 @@
+.triangle-up {
+	width: 0;
+	height: 0;
+	border-left: 75px solid transparent;
+	border-right: 75px solid transparent;
+	border-bottom: 150px solid #22cdd9;
+}
+
+#font {
+  font-family: Tahoma, Arial, sans serif;
+}
+
+h1 {
+  text-align: center;
+  font-family: Arial Narrow, Tahoma, sans serif;
+  color: white;
+  background-color: #fc468d;
+  padding: 20px;
+  margin-top: 5%;
+}
+
+body {
+  width: 80%;
+  margin-left: 10%;
+}
+
+#purple {
+  background-color: #f8e9fb;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+#colour {
+  background-color: #fcfca9;
+  padding: 20px;
+  margin-top: 30px;
+  margin-bottom: 5%;
+}

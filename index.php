@@ -20,7 +20,7 @@
   <body>
     <?php
       echo "<h1>Calculating the Area and Perimeter of a Triangle in PHP with User Input</h1>";
-      echo "<h3>Explanation:</h3>";
+      echo "<h3>Introduction:</h3>";
       echo "<p>Welcome to my webpage! Input the side lengths and height of a triangle below, and the program I've written will calculate the triangle's area and perimeter for you!</p>";
     ?>
   </body>
